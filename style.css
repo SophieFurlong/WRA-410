@@ -1,0 +1,90 @@
+body {
+    background-color: #EEE;
+font-family: "Arial Black";
+}
+
+a {
+  text-decoration: none;
+  color: #000099;
+}
+
+h1, h2, h3  {
+  margin: 0;
+  padding: 10px;
+    font-family: "Trebuchet MS";
+}
+
+#container {
+    background-color: white;
+    width: 1000px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+#header {
+    background-color: #00CCCC;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-family: "Arial Black";
+}
+
+#content {
+  padding: 10px;
+}
+
+#nav {
+  width: 150px;
+  float: left;
+  padding: 20px;
+}
+
+#nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+
+#nav .selected {
+  font-weight: bold;
+}
+
+#main {
+  width: 750px;
+  float: right;
+
+}
+
+#student-group {
+  clear: both;
+  margin: 20px;
+  border: 20px;
+  padding: 10px;
+  background-color:  #d3d3d3;
+  color: black;
+  text-align: left;
+}
+
+#footer {
+  clear: both;
+  padding: 10px;
+  background-color: #CCFFFF;
+  color: black;
+}
+.schedule-date {
+  font-weight: bold;
+  color: black;
+  text-align: right;
+}
+.schedule-resources {
+  font-weight: lighter;
+  color: black;
+  text-align: left;
+}
+
+p {
+font-family: Bookman, sans-serif}
+
+h1{font-family: "Trebuchet MS" }
+
+header{font-family: Bookman, sans-serif}
